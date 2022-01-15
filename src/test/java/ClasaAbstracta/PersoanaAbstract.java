@@ -18,3 +18,7 @@ public abstract class PersoanaAbstract {
         System.out.println("Are varsta de "+varsta);
     }
 }
+
+
+
+
