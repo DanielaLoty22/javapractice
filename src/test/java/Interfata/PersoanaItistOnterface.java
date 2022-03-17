@@ -1,9 +1,9 @@
 package Interfata;
 
-public class PersoanaItistOnterface extends PersoanaInterface implements ItistT{
+public class PersoanaItistInterface extends PersoanaInterface implements ItistT{
 
 
-    public PersoanaItistOnterface(String nume, String prenume) {
+    public PersoanaItistInterface(String nume, String prenume) {
         super(nume, prenume);
     }
 
